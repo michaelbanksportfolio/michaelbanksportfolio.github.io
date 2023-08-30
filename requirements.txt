@@ -56,3 +56,4 @@ tzdata==2023.3
 urllib3==1.26.15
 wcwidth==0.2.5
 Werkzeug==2.2.3
+Flask-Mail==0.9.1
